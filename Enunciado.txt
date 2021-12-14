@@ -1,0 +1,9 @@
+8. Desarrollar una aplicación con tres cuadros de texto para el nombre el apellido
+y la edad de una persona, teniendo en cuenta las siguientes indicaciones:
+• Si se pulsa la tecla F1 en el cuadro de texto del nombre o el apellido,
+aperecerá un mensaje de ayuda a su lado. Al pulsar de nuevo la tecla el
+mensaje desaparecerá.
+• Si se pulsa la tecla F2 en el cuadro de texto de la edad se validará que el dato
+introducido sea un entero. De no ser así, aparecerá un mensaje de error a su
+lado.
+Nombre del proyecto: 2.8.CuadrosTexto
